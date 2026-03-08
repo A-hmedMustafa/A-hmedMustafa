@@ -11,9 +11,7 @@ I am a backend developer focused on building reliable and maintainable backend s
 - SQL Server
 - Entity Framework Core
 - Clean Architecture
-- Background Workers
-- Transactional Outbox Pattern
-- Idempotent Message Processing
+
 
 ## Featured Project
 
