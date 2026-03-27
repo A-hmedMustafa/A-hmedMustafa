@@ -134,15 +134,16 @@ Focused on building scalable, maintainable, and production-grade backend systems
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
-<br/>
+
 
 <img src="https://skillicons.dev/icons?i=sqlserver,redis,docker,git" />
-<br/>
-<img src="https://skillicons.dev/icons?i=sqlserver,sqlite" />
 
+
+<img src="https://skillicons.dev/icons?i=sdd,html,css,js" />
+
+<img src="https://skillicons.dev/icons?i=sqlserver,sqlite" />
 <img src="https://skillicons.dev/icons?i=postman" />
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+
 </p>
 
 <p align="center">
