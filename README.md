@@ -33,11 +33,7 @@ Focused on building scalable, maintainable, and production-grade backend systems
 - API Design & System Scalability  
 
 ---
-
-## 💼 Experience
-
-- Built an **Arabic Sales Invoice Generator** for enterprise usage  
-- Focused on correctness, localization, and business workflows  
+ 
 
 ---
 
